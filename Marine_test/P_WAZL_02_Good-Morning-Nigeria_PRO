@@ -1,12 +1,12 @@
 # sent_id = P_WAZL_02_Good-Morning-Nigeria_PRO_1
 # sent_translation = All right,  # I have the New Telegraph this morning and some of the stories that are there en, that are different, I will read them out.
 # text = alright # I carry di New Telegraph dis morning |c and some of di stories { wey dey dere |c # ehn wey dey different } < I go read am out //
-# timestamp = 1589466428506
+# timestamp = 1589467884869
 1	alright	_	ADV	_	_	4	discourse	_	endali=2545|startali=1960
 2	#	_	PUNCT	_	_	1	punct	_	endali=2801|startali=2545
 3	I	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	endali=2978|startali=2801
 4	carry	_	VERB	_	_	0	root	_	endali=3250|startali=2978
-5	di	_	DET	_	Definite=Def|PronType=Art	6	det	_	endali=3370|startali=3250
+5	di	_	NOUN	_	Definite=Def|PronType=Art	6	det	_	endali=3370|startali=3250
 6	New	_	PROPN	_	_	4	comp:obj	_	endali=3630|startali=3370
 7	Telegraph	_	PROPN	_	_	6	flat	_	endali=4300|startali=3630
 8	dis	_	DET	_	Number=Sing|PronType=Prox	9	det	_	endali=4620|startali=4300
