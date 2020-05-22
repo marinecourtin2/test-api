@@ -1,0 +1,9 @@
+# sent_id = WAZA_10_Bluetooth-Lifestory_MG__1
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/WAZA_10_Bluetooth-Lifestory_MG.mp3
+# speaker_id = Sp281
+# text = okay //
+# text_en = Okay.
+# text_ortho = Okay.
+# timestamp = 1590156252691
+1	okay	OK	INTJ	_	_	0	root	_	AlignBegin=956|AlignEnd=1290|Gloss=OK
+2	//	//	PUNCT	_	_	1	cc:conj	_	AlignBegin=1290|AlignEnd=1320|Gloss=PUNCT
